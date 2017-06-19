@@ -1,4 +1,4 @@
-FROM alpine
+FROM gomicro/golang:centos7
 
 
 MAINTAINER Brent Johnson <brentj433@gmail.com>
